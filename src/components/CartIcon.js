@@ -1,3 +1,4 @@
+import React from "react";
 export default function CartIcon(props) {
     return (
         <div className="cart-icon" onClick={props.toggleShow}>

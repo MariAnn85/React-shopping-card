@@ -1,3 +1,4 @@
+import React from "react";
 import {useState} from 'react';
 import CartIcon from './CartIcon';
 import ShowAlert from './ShowAlert';
